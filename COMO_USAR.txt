@@ -1,0 +1,8 @@
+1. Extraia este ZIP no computador.
+2. Abra seu repositorio GitHub pelo navegador, clique em uploading an existing file (ou Add file > Upload files).
+3. Arraste para a pagina as pastas app, .github e os arquivos build.gradle, settings.gradle, gradle.properties (preserve a estrutura de pastas).
+4. Clique em Commit changes.
+5. Abra Actions > Gerar APK do EnglishUp > a execucao mais recente.
+6. Ao concluir com sucesso, baixe EnglishUp-APK em Artifacts.
+7. Extraia o ZIP de artefatos, obtenha app-debug.apk e transfira ao Android.
+ATENCAO: o APK ainda nao foi compilado/testado. E uma versao inicial de 12 licoes com reconhecimento de fala, nao uma IA completa.

@@ -1,0 +1,5 @@
+EnglishUp Android Nativo — projeto-fonte para Android Studio.
+Não é um APK instalável. Para gerar um APK é necessário Android SDK + Gradle/Android Studio.
+Abra a pasta no Android Studio, sincronize o Gradle e use Build > Build APK(s).
+O app solicita permissão nativa RECORD_AUDIO, usa RecognizerIntent e TextToSpeech, e salva progresso localmente.
+A versão inicial tem 12 lições de demonstração, não é um curso completo nem IA conversacional.
